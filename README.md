@@ -4,6 +4,8 @@
     <img src="./logo.png" alt="LOGO" width="45" />
 </a>
 
+---
+
 **Framelar** is a production startup building a marketplace for ready-to-use websites.
 
 The goal is simple: help people launch faster by buying and selling websites that are already designed, structured, and close to production-ready.
