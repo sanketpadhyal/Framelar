@@ -1,5 +1,9 @@
 # Framelar
 
+<a href="https://www.framelar.netlify.app">
+    <img src="./logo.png" alt="LOGO" width="55" />
+</a>
+
 **Framelar** is a production startup building a marketplace for ready-to-use websites.
 
 The goal is simple: help people launch faster by buying and selling websites that are already designed, structured, and close to production-ready.
