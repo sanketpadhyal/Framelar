@@ -4,6 +4,8 @@
     <img src="./logo.png" alt="LOGO" width="45" />
 </a>
 
+>> WILL BE FINISHED SOON ...
+
 ---
 
 **Framelar** is a production startup building a marketplace for ready-to-use websites.
